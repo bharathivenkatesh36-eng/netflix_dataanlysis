@@ -1,0 +1,15 @@
+[theme]
+base = "dark"
+primaryColor = "#E50914"
+backgroundColor = "#141414"
+secondaryBackgroundColor = "#090909"
+textColor = "#FFFFFF"
+font = "sans serif"
+borderColor = "#343434"
+linkColor = "#E50914"
+chartCategoricalColors = ["#E50914", "#F5576C", "#B20710", "#FF6B6B", "#831010", "#FFC1C1", "#7A7A7A"]
+chartSequentialColors = ["#FFF0F0", "#FFD0D0", "#FF9A9A", "#FF6B6B", "#F5576C", "#E50914", "#B20710", "#831010", "#4A0404", "#210000"]
+
+[server]
+headless = true
+enableCORS = false
